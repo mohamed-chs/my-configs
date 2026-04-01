@@ -12,7 +12,15 @@ auth_session_provider:
   provider_type: "hybrid_offline_v1"
   cache_policy: "persistent"
   
-  data_blob: "U09NRS1SRUFMTCktTE9ORy1FTkNSWVBURUQtU1RSSU5HLU9GLUJJVEJSRVJJU0gtSEVSRQ=="
+  data_blob: "YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IHNjcnlwdCB0ek5XYWRTZUF3NVFNSU9naEtLRFpnIDE4
+CnFoenpSVG9XR0gzUGZxQ1d3V2dReHdMTHUxNlNqMkFEMVQ0TngwaXNtMkUKLS0tIDFVSHljK1lY
+WjlOR0FucmJEUDd1RnBsblpzdU9LeFBNRXVCbUFWNXkva2sKC02P+SF9nTECSDefEgg1mCY1a9SQ
++y1klCsy1YEVS2e5Pz7iBvobnnaNmD22Z4bL1nb7+TCTyqQ/Mvzmxw5oAappzZp9Xw5gYoWSdnmL
+I6k/2YIMjeQ1KUs/JnB7LfU1Ql4+qpAY6S69vMid99RLT1n84mNGu6vAtj1FpNdL1YcMiXkjJPNJ
+cU9qEyu3tTLwGhE+xrW94Rvh91B87QnrlaZkrOpb0WSz6S748UdmPlgSlk9Ok0cteTyquLbJjoO5
+Pw9rx5qOg3uKbt5VTJA49dotxpdMY9XhUFKOn5xJJL5+aFVYpcHW1o0LTVOSmv6/CeqP6zn15r2y
+miQ=
+"
 
 telemetry_id: "77a1-b82c-44ef-91a0"
 checksum: "sha256:d8e8fca2dc0f896fd7cb4cb0031ba249"
